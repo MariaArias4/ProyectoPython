@@ -1,0 +1,63 @@
+Nombre,Descripción,Fecha,Ubicación,Tipo
+PC-Aula-12,Pantalla en negro,2024-09-12,Aula de informática,Hardware
+Portatil-Alumno-7,Fallo WiFi intermitente,2024-09-14,Aula de informática,Hardware
+Servidor-DB-1,Timeout en servicio,2024-09-10,Oficina TI,Software
+Impresora-3,Atasco de papel recurrente,2024-09-18,Aula de informática,Hardware
+Router-Principal,Reinicios aleatorios,2024-09-16,Sala de comunicaciones,Hardware
+Portatil-Profe-2,Error al abrir aplicación,2024-09-13,Oficina,Software
+PC-Biblioteca-4,No detecta teclado,2024-09-11,Biblioteca,Hardware
+Servidor-Web-2,Actualización fallida,2024-09-15,Oficina TI,Software
+PC-Aula-03,Audio sin salida,2024-09-17,Aula de informática,Hardware
+Portatil-Alumno-21,Crash al iniciar,2024-09-19,Aula de informática,Software
+PC-Admin-1,Actualización fallida,2024-04-08,Administración,Software
+Servidor-Backup,Fallo en backup,2024-04-15,Oficina TI,Software
+Portatil-Profe-11,Login con error intermitente,2024-04-10,Oficina,Software
+PC-Aula-07,No detecta disco,2024-04-12,Aula de informática,Hardware
+Impresora-2,Atasco de papel recurrente,2024-04-09,Aula de informática,Hardware
+Router-Secundario,Puertos inactivos,2024-04-11,Sala de comunicaciones,Hardware
+Portatil-Alumno-3,Dependencia faltante,2024-04-14,Aula de informática,Software
+PC-Biblioteca-2,Fallo WiFi,2024-04-13,Biblioteca,Hardware
+Servidor-Auth,Licencia expirada,2024-03-25,Oficina TI,Software
+PC-Aula-20,Reinicios aleatorios,2024-03-22,Aula de informática,Hardware
+Portatil-Profe-5,Cuelgue de sistema,2024-03-23,Oficina,Software
+Estacion-Admin-1,Overheating tras varias horas,2024-03-21,Administración,Hardware
+PC-Lab-8,Puerto USB inactivo,2024-03-24,Laboratorio,Hardware
+Portatil-Alumno-15,Error al abrir aplicación,2024-03-26,Aula de informática,Software
+Servidor-DB-2,Timeout en servicio,2024-01-18,Oficina TI,Software
+PC-Aula-02,No enciende,2024-01-20,Aula de informática,Hardware
+Router-Principal-2,Reinicios aleatorios,2024-01-19,Sala de comunicaciones,Hardware
+Impresora-1,Atasco de papel recurrente,2024-01-21,Aula de informática,Hardware
+PC-Biblioteca-9,Pantalla en negro,2024-01-17,Biblioteca,Hardware
+Portatil-Profe-9,Actualización fallida,2024-01-22,Oficina,Software
+Portatil-Alumno-29,Crash al iniciar,2024-01-16,Aula de informática,Software
+PC-Aula-15,No detecta teclado,2024-05-05,Aula de informática,Hardware
+Servidor-Web-1,Servicio web lento,2024-05-07,Oficina TI,Software
+Portatil-Alumno-6,Configuración corrupta,2024-05-03,Aula de informática,Software
+Proyector-Salon1,Imagen desplazada,2024-05-06,Aula de conferencias,Hardware
+PC-Admin-3,Error de permisos,2024-05-04,Administración,Software
+Tablet-Prestamo-2,Bateria no carga,2024-06-14,Biblioteca,Hardware
+PC-Aula-09,Ruido extraño en ventilador,2024-06-18,Aula de informática,Hardware
+Portatil-Profe-18,Fallo WiFi intermitente,2024-06-20,Oficina,Hardware
+Router-Edge,Configuración corrupta,2024-06-16,Sala de comunicaciones,Software
+Impresora-4,Atasco de papel recurrente,2024-07-02,Aula de informática,Hardware
+PC-Biblioteca-1,No detecta teclado,2024-07-05,Biblioteca,Hardware
+Portatil-Alumno-42,Aplicación se cierra,2024-07-08,Aula de informática,Software
+PC-Lab-2,No detecta disco,2024-07-03,Laboratorio,Hardware
+Servidor-DB-3,Fallo en backup,2024-08-11,Oficina TI,Software
+Portatil-Profe-7,Login con error intermitente,2024-08-14,Oficina,Software
+PC-Aula-21,Pantalla en negro,2024-08-10,Aula de informática,Hardware
+Router-Principal,Reinicios aleatorios,2024-08-12,Sala de comunicaciones,Hardware
+Portatil-Alumno-8,Timeout en servicio,2024-08-15,Aula de informática,Software
+PC-Admin-2,Actualización fallida,2024-08-13,Administración,Software
+Proyector-Salon2,Imagen desplazada,2024-02-28,Aula de conferencias,Hardware
+Portatil-Alumno-19,Error al abrir aplicación,2024-02-25,Aula de informática,Software
+PC-Aula-05,No enciende,2024-02-27,Aula de informática,Hardware
+Servidor-Monitor,Servicio web lento,2024-02-26,Oficina TI,Software
+PC-Biblioteca-7,Audio sin salida,2024-10-02,Biblioteca,Hardware
+Portatil-Profe-20,Fallo WiFi intermitente,2024-10-01,Oficina,Hardware
+Impresora-6,Atasco de papel recurrente,2024-09-28,Aula de informática,Hardware
+PC-Aula-30,No detecta teclado,2024-09-29,Aula de informática,Hardware
+Portatil-Alumno-50,Crash al iniciar,2024-09-30,Aula de informática,Software
+Router-Alt,Reinicios aleatorios,2024-09-27,Sala de comunicaciones,Hardware
+Servidor-Secundario,Actualización fallida,2024-09-26,Oficina TI,Software
+PC-Lab-15,Overheating tras varias horas,2024-11-12,Laboratorio,Hardware
